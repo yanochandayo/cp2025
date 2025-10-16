@@ -6,3 +6,8 @@
 - item2
 
 ## part2
+
+- sunday
+- monday 
+- tuesday
+- wendsday
